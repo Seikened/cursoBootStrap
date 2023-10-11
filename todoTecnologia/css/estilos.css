@@ -7,3 +7,15 @@
     color: white;
     opacity: 0.8;
 }
+
+.mastermindgray80{
+    background-color: gray;
+    color: white;
+    opacity: 0.8;
+}
+
+.mastermindgray60{
+    background-color: gray;
+    color: white;
+    opacity: 0.6;
+}
